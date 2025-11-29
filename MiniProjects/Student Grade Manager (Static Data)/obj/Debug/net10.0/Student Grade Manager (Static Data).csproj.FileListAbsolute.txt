@@ -1,0 +1,15 @@
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/obj/Debug/net10.0/Student Grade Manager (Static Data).GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/obj/Debug/net10.0/Student Grade Manager (Static Data).AssemblyInfoInputs.cache
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/obj/Debug/net10.0/Student Grade Manager (Static Data).AssemblyInfo.cs
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/obj/Debug/net10.0/Student Grade Manager (Static Data).csproj.CoreCompileInputs.cache
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/obj/Debug/net10.0/Student Grade Manager (Static Data).sourcelink.json
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/bin/Debug/net10.0/Student Grade Manager (Static Data)
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/bin/Debug/net10.0/Student Grade Manager (Static Data).deps.json
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/bin/Debug/net10.0/Student Grade Manager (Static Data).runtimeconfig.json
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/bin/Debug/net10.0/Student Grade Manager (Static Data).dll
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/bin/Debug/net10.0/Student Grade Manager (Static Data).pdb
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/obj/Debug/net10.0/Student Grade Manager (Static Data).dll
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/obj/Debug/net10.0/refint/Student Grade Manager (Static Data).dll
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/obj/Debug/net10.0/Student Grade Manager (Static Data).pdb
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/obj/Debug/net10.0/Student Grade Manager (Static Data).genruntimeconfig.cache
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Student Grade Manager (Static Data)/obj/Debug/net10.0/ref/Student Grade Manager (Static Data).dll
