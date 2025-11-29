@@ -45,7 +45,7 @@ This repo is **not finished** — it’s growing with me.
 
 Every commit = one step forward.
 
-If you're reading this: **you’re watching my journey as a developer begin.**
+If you're reading this: **you’re watching my journey as a .NET developer .**
 
 
 
