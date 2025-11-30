@@ -1,0 +1,30 @@
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/bin/Debug/net10.0/Inventory Checker
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/bin/Debug/net10.0/Inventory Checker.deps.json
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/bin/Debug/net10.0/Inventory Checker.runtimeconfig.json
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/bin/Debug/net10.0/Inventory Checker.dll
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/bin/Debug/net10.0/Inventory Checker.pdb
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/obj/Debug/net10.0/Inventory Checker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/obj/Debug/net10.0/Inventory Checker.AssemblyInfoInputs.cache
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/obj/Debug/net10.0/Inventory Checker.AssemblyInfo.cs
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/obj/Debug/net10.0/Inventory Checker.csproj.CoreCompileInputs.cache
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/obj/Debug/net10.0/Inventory Checker.sourcelink.json
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/obj/Debug/net10.0/Inventory Checker.dll
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/obj/Debug/net10.0/refint/Inventory Checker.dll
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/obj/Debug/net10.0/Inventory Checker.pdb
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/obj/Debug/net10.0/Inventory Checker.genruntimeconfig.cache
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Inventory Checker/obj/Debug/net10.0/ref/Inventory Checker.dll
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/obj/Debug/net10.0/Inventory Checker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/obj/Debug/net10.0/Inventory Checker.AssemblyInfoInputs.cache
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/obj/Debug/net10.0/Inventory Checker.AssemblyInfo.cs
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/obj/Debug/net10.0/Inventory Checker.csproj.CoreCompileInputs.cache
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/obj/Debug/net10.0/Inventory Checker.sourcelink.json
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/obj/Debug/net10.0/Inventory Checker.dll
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/obj/Debug/net10.0/refint/Inventory Checker.dll
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/obj/Debug/net10.0/Inventory Checker.pdb
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/bin/Debug/net10.0/Inventory Checker
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/bin/Debug/net10.0/Inventory Checker.deps.json
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/bin/Debug/net10.0/Inventory Checker.runtimeconfig.json
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/bin/Debug/net10.0/Inventory Checker.dll
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/bin/Debug/net10.0/Inventory Checker.pdb
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/obj/Debug/net10.0/Inventory Checker.genruntimeconfig.cache
+/Users/abdulaziz/Desktop/Journey-With-CSharp/MiniProjects/Store Inventory Checker/obj/Debug/net10.0/ref/Inventory Checker.dll
