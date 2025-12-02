@@ -22,8 +22,8 @@ This repo is not just code — it’s **proof of my commitment** 👣
 ## 💡 Skills I’m Building  
 | Skill | Status |
 |------|--------|
-| C# Fundamentals | ✔ Learning |
-| OOP Concepts | ✔ Practicing |
+| C# Fundamentals | ✔ Using |
+| OOP Concepts | ✔ Learning |
 | .NET Framework | 🔄 Soon |
 | Git & Version Control | ✔ Using |
 | SOLID Principles | ✔  Learning |
