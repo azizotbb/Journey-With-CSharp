@@ -34,7 +34,6 @@ namespace InventoryChecker
             {
                 if (product.name.ToLower() == searchName)
                 {
-                    // Display search result
                     Console.WriteLine("\nSearch Result:");
                     Console.WriteLine($"Product: {product.name}");
                     Console.WriteLine($"Quantity: {product.quantity}");
@@ -50,7 +49,6 @@ namespace InventoryChecker
                 Console.WriteLine("\nProduct not found!");
             }
 
-            // End of report
             Console.WriteLine("\n-------------------------------");
             Console.WriteLine("End of Report");
         }
@@ -60,7 +58,6 @@ namespace InventoryChecker
         {
             float total = 0;
 
-            // Loop through all products and sum up their values
             foreach (var product in products)
             {
                 total += product.quantity * product.price;
@@ -73,7 +70,6 @@ namespace InventoryChecker
         {
             Console.WriteLine("Products with low stock (<5):");
 
-            // Check each product for low stock
             foreach (var product in products)
             {
                 if (product.quantity < 5)
