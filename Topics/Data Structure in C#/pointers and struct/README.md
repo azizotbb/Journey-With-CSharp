@@ -51,7 +51,7 @@ Example: A student has a **name**, **age**, and **grade** → instead of using 3
 ## 🔹 Basic Example
 
 ```cpp
-struct Student {
+public struct Student {
     string name;
     int age;
     float grade;
@@ -76,9 +76,10 @@ Student s2 = {"Sara", 19, 92.3};
 ## 🔹 Array of Structs
 
 ```cpp
-Student students[3] = {
-    {"Ali", 20, 90},
-    {"Sara", 19, 85},
-    {"Omar", 21, 70}
-};
+Student[] students = new Student[3];
+students[0] = new Student("Ali", 20, 90.5f);
+students[1] = new Student("Sara", 19, 85.3f);
+students[2] = new Student("Omar", 21, 70.1f);
+
+Console.WriteLine(students[1].Name);
 ```
