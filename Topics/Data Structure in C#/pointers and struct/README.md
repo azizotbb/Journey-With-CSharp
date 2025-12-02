@@ -1,4 +1,4 @@
-# Pointers in C++
+# Pointers in C#
 
 ## 🔹 What Is a Pointer?
 
@@ -37,7 +37,7 @@ int* p = &x;
 
 ```
 
-# Struct in C++
+# Struct in C#
 
 ## 🔹 What Is a `struct`?
 
